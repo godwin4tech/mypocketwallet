@@ -24,7 +24,6 @@ class HomeScreen extends StatelessWidget {
         elevation: 0,
         iconTheme: const IconThemeData(color: Colors.white),
         actions: [
-          // Notification icon with badge
           Stack(
             children: [
               IconButton(
