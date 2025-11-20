@@ -4,8 +4,6 @@
 My Pocket Wallet is a modern mobile banking application built with **Flutter** and **Firebase Authentication**.  
 It provides secure login, smooth navigation, clean UI components, and essential wallet functionalities such as transfers, withdrawals, mobile recharge, and card management.
 
-This project was created as the final submission for **PLP Mobile Development – Week 7 & 8**.
-
 ---
 
 ##  Features
